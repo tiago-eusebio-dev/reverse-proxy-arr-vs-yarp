@@ -85,9 +85,9 @@ Its pipeline and modules are designed so that we can customize the functionality
 - It is not limited to just proxy the requests; it can proxy the requests and do something else at the same time (extensibility).
 - On other reverse proxies we typically have a static configuration or a mechanism to get the configuration and then start the service; with YARP we can do that, but we have APIs to dynamically get those configurations in runtime and do with them whatever we want and change it dynamically on the fly without having to restart the service.
 
->***VIDEO with good explanations and demos:*** https://www.youtube.com/watch?v=1IqQkNcsqWE
+>***VIDEOS with good explanations and demos:*** [YARP: The .NET Reverse proxy](https://www.youtube.com/watch?v=1IqQkNcsqWE) | [Lessons Learned from Building the YARP Proxy on .NET](https://www.youtube.com/watch?v=WJcjlSEXqWA)
 
->***Article with very good explanation and examples:*** https://www.codemag.com/Article/2209031/YARP-I-Did-It-Again
+>***ARTICLE with very good explanation and examples:*** [YARP: I Did It Again](https://www.codemag.com/Article/2209031/YARP-I-Did-It-Again)
 
 ##### _[↑ Go to top](#reverse-proxy-arr-vs-yarp)_
 
@@ -112,10 +112,11 @@ On the other hand, it is still a very recent tool, being developed since 2021 (l
 ---
 
 ## Sources:
-- https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy
-- https://auth0.com/blog/building-a-reverse-proxy-in-dot-net-core
-- https://www.youtube.com/watch?v=1IqQkNcsqWE
-- https://www.codemag.com/Article/2209031/YARP-I-Did-It-Again
+- [[Cloudflare] What is a reverse proxy? | Proxy servers explained](https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy)
+- [[Auth0 Blog] Building a Reverse Proxy in .NET Core](https://auth0.com/blog/building-a-reverse-proxy-in-dot-net-core)
+- [[YouTube] YARP: The .NET Reverse proxy](https://www.youtube.com/watch?v=1IqQkNcsqWE)
+- [[YouTube] YARP: Lessons Learned from Building the YARP Proxy on .NET](https://www.youtube.com/watch?v=WJcjlSEXqWA)
+- [[Code Magazine] YARP: I Did It Again](https://www.codemag.com/Article/2209031/YARP-I-Did-It-Again)
 
 ##### _[↑ Go to top](#reverse-proxy-arr-vs-yarp)_
 
