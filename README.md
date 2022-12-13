@@ -87,6 +87,8 @@ Its pipeline and modules are designed so that we can customize the functionality
 
 >***VIDEO with good explanations and demos:*** https://www.youtube.com/watch?v=1IqQkNcsqWE
 
+>***Article with very good explanation and examples:*** https://www.codemag.com/Article/2209031/YARP-I-Did-It-Again
+
 ##### _[↑ Go to top](#reverse-proxy-arr-vs-yarp)_
 
 ---
