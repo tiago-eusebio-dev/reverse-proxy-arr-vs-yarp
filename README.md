@@ -30,7 +30,7 @@ With a reverse proxy, when clients send requests to the origin server of a websi
 
 The client has no knowledge about the origin servers, communicating only with/via the reverse proxy.
 
-![Reverse Proxy Flow][reverse_proxy_flow]
+![Reverse Proxy Flow](reverse_proxy_flow.png)
 
 
 ### Use Cases:
