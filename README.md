@@ -113,6 +113,7 @@ On the other hand, it is still a very recent tool, being developed since 2021 (l
 - https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy
 - https://auth0.com/blog/building-a-reverse-proxy-in-dot-net-core
 - https://www.youtube.com/watch?v=1IqQkNcsqWE
+- https://www.codemag.com/Article/2209031/YARP-I-Did-It-Again
 
 ##### _[↑ Go to top](#reverse-proxy-arr-vs-yarp)_
 
