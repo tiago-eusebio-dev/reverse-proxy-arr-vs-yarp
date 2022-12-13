@@ -1,6 +1,6 @@
 # Reverse Proxy: ARR vs YARP
 
-This document resumes the information obtained on an research about using ARR or YARP as reverse proxies.
+This document resumes the information obtained on a research about using ARR or YARP as reverse proxies.
 
 The initial goal is to route incoming client requests to one of multiple web servers using one of several routing rules.
 
